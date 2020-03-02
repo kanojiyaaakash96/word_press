@@ -9,7 +9,7 @@ published: true
 post_date: 2020-02-19 10:15:02
 ---
 <h2>INVENTORY MANAGEMENT SYSTEM</h2>		
-			<h2>Bill of Material</h2>		
+			<h2>Bill of Material(BOM)</h2>		
 		<p>A bill of materials (BOM) is a comprehensive inventory of the raw materials,assemblies, subassemblies, parts and components, as well as the quantities of each, needed to manufacture a product.</p>		
 			<h2>Purchase Orders</h2>		
 		<p>Keep track of Purchase Orders alongside your assets. Automatically update items linked to Purchase Orders, and manage vendors and procurement costs all from one place.</p>		
